@@ -1,1 +1,0 @@
-This project demonstrates an end-to-end machine learning workflow using a real-world dataset. It covers data preprocessing, feature engineering, train-test splitting, cross-validation, model training, and evaluation using regression metrics. 
